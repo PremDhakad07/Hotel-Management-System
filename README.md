@@ -22,7 +22,7 @@ The Hotel Management System is a console-based application built using **Java** 
 1.  **Save the Code:** Ensure the complete Java code is saved as a single file named `Main.java`.
 2.  **Clone the Repository (or download the file):**
     ```bash
-    git clone [Your-Repository-URL]
+    git clone https://github.com/PremDhakad07/Hotel-Management-System.git
     cd hotel-management-system
     ```
 3.  **Compile the Java Code:**
