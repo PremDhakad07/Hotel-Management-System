@@ -1,10 +1,10 @@
-#  Hotel Management System (HMS) in Java (Single File Edition)
+#  Hotel Management System (HMS) in Java 
 
 ## Project Title
 **Hotel Management System (HMS)**
 
 ## Overview of the Project
-The Hotel Management System is a console-based application built using **Java** that automates core hotel operations. It allows staff to efficiently manage room inventory, handle guest reservations (booking, check-in, check-out), and automatically generate billing invoices. This version demonstrates a compact implementation where all Model, Service, and Application logic are contained within a **single runnable Java file**, primarily for project submission purposes.
+The Hotel Management System is a console-based application built using **Java** that automates core hotel operations. It allows staff to efficiently manage room inventory, handle guest reservations (booking, check-in, check-out), and automatically generate billing invoices. This version demonstrates a compact implementation where all Model, Service, and Application logic are contained within a **Java file**, primarily for project submission purposes.
 
 ## Features
 * **Room Management:** View status and details of all available and occupied rooms.
